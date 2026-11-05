@@ -28,7 +28,7 @@ Il progetto nasce da un'esigenza personale e rappresenta anche un'occasione di s
 
 ## Compilazione
 
-Per la compilazione di Rubrix occorre avere installato sulla popria distribuzione GNU/Linux il GNU GCC Compiler.
+Per la compilazione di Rubrix occorre avere installato sulla propria distribuzione GNU/Linux il GNU GCC Compiler.
 Aprire in ambiente Linux un terminale con la combinazione di tasti CTR-ALT-C e digitare nella directory in cui il sorgente è salvato:
 [gcc -Wall -Wextra -g rubrix.c -o rubrix]
 
